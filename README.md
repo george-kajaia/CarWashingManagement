@@ -1,0 +1,1 @@
+Car washing management module
